@@ -1,0 +1,10 @@
+INSERT INTO pets (name, species) VALUES ("Garfield", "Cat");
+INSERT INTO pets (name, species) VALUES ("Odie", "Dog");
+INSERT INTO pets (name, species) VALUES ("Milo", "Cat");
+INSERT INTO pets (name, species) VALUES ("Otis", "Dog");
+INSERT INTO pets (name, species) VALUES ("Beethoven", "Dog");
+INSERT INTO pets (name, species) VALUES ("Clifford", "Dog");
+INSERT INTO pets (name, species) VALUES ("Pet Lizard", "Lizard");
+INSERT INTO pets (name, species) VALUES ("Roger", "Rabbit");
+INSERT INTO pets (name, species) VALUES ("Bugs", "Rabbit");
+INSERT INTO pets (name, species) VALUES ("Daffy", "Duck");
